@@ -1,0 +1,22 @@
+
+html,div, body {
+	
+	background-color: #fac4de;
+	font-family: 'Shadows Into Light Two', cursive;
+	font-size: 35px;
+}
+nav{
+
+	font-size: 75px;
+}
+
+.list{
+	padding: 75px;
+	margin-top: 75px;
+}
+
+li{
+	list-style-type:none;
+	padding: 6px;
+}
+
